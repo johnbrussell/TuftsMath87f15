@@ -1,0 +1,14 @@
+Course*
+.DS_Store/
+*.pdf
+*.doc
+*.PNG
+*.jpg
+M2/surfer.m
+HW2/bisection.m
+HW2/halley.m
+HW2/secant.m
+HW2/newton.m
+HW3/cake_division.m
+HW7/strategy1.m
+HW7/strategy2.m
